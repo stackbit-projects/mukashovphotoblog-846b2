@@ -1,8 +1,6 @@
 ---
 title: Творческий сок
-excerpt: >-
-  Мне кажется, произведения должны создавать люди, которые живут в этом соку.
-  Такая мысль пришла ко
+excerpt: 'Мне кажется, произведения должны создавать люди, которые живут в этом соку. '
 date: '2019-04-09'
 thumb_img_path: images/markus-spiske-58kqouuIlW8-unsplash.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking river
