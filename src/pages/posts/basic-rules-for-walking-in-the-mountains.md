@@ -1,7 +1,7 @@
 ---
 title: Творческий сок
 excerpt: 'Мне кажется, произведения должны создавать люди, которые живут в этом соку. '
-date: '2019-04-09'
+date: '2021-01-21'
 thumb_img_path: images/markus-spiske-58kqouuIlW8-unsplash.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking river
 content_img_alt: A man standing on a rock cliff overlooking river
